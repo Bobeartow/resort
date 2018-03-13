@@ -4,8 +4,8 @@
 
 ## By Aaron Akbari-Mort, Bobby Martin
 
-[Link to project](https://bobeartow.github.io/resort),
-[Link to project](https://aaronakbarimort.github.io/resort)
+[Link to project- Aaron](https://aaronakbarimort.github.io/resort),
+[Link to project - Bobby](https://bobeartow.github.io/resort)
 
 ## Description
 
